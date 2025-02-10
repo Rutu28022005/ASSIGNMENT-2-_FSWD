@@ -1,8 +1,8 @@
 const appointments = [
-    { clientName: "Kunj", time: new Date("2025-02-03T10:30:00"), service: "Meet-up" },
-    { clientName: "Dhruvam", time: new Date("2025-02-03T10:20:00"), service: "Meet-up" },
-    { clientName: "Mayank", time: new Date("2025-02-03T10:00:00"), service: "Meet-up" },
-    { clientName: "Tirth", time: new Date("2025-02-03T09:59:00"), service: "Meet-up" }
+    { clientName: "Riya", time: new Date("2025-02-03T10:30:00"), service: "Meet-up" },
+    { clientName: "Dhruvi", time: new Date("2025-02-03T10:20:00"), service: "Meet-up" },
+    { clientName: "Mansi", time: new Date("2025-02-03T10:00:00"), service: "Meet-up" },
+    { clientName: "Tirtha", time: new Date("2025-02-03T09:59:00"), service: "Meet-up" }
   ];
   console.log(appointments)
 
